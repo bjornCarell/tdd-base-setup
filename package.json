@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
+        "@actions/core": "^1.2.6",
+    "@cypress/github-action": "^2.7.2",
     "cypress": "^6.2.1",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-cypress": "^2.11.2",
